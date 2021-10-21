@@ -1,0 +1,52 @@
+*{
+    font-family: Tahoma;
+    padding: 0;
+    margin: 0;
+    background-color:  rgb(255, 255, 255);
+
+}
+header {
+
+
+}
+header h1{
+    color: rgb(64, 175, 219);
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+}
+.desj{
+
+    text-align: center;
+    margin: 30px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color:#424242;
+}
+.todos{
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    margin: 20px auto;
+}
+.t{
+    color: rgb(64, 175, 219);
+    font-size: 22px;
+    margin: 10px;
+
+}
+.abuelo{
+
+    border-right: 2px solid #ccc;
+    width: 100%;
+    margin-right: 5px;
+ 
+}
+article{
+
+    width: 90%;
+    margin: 0 auto;
+}
+article p{
+    margin: 10px;
+}
